@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Levels in build/0 StartScene.unity
+    guid: fa965b66663df45ae8c23a05fecd98e6
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/1.unity
+    guid: a2373949fa76b4aa0ac0f060325124ab
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/2.unity
+    guid: a3e768aff91f54ad79dba04e94ac484e
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/3.unity
+    guid: 3f08eedff0a5e46e38afb35a6ce6bce3
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/4.unity
+    guid: ab2eca6569c0b4afeb0c2da0f35caf8c
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/5.unity
+    guid: 274131d2b40e142ab9d725d02ea8f876
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/6.unity
+    guid: 7363cf0b085a84e9cbd9f37261ed2184
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/7.unity
+    guid: 921c5fd5563c3447dabeca6137902dc2
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/8.unity
+    guid: e84381a4b56be444884515891cedbe13
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/9.unity
+    guid: 965936b156c7c4712a88349ad3c1d189
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/10.unity
+    guid: f7f70aaeb72db4d97847a0ebdf153718
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/11.unity
+    guid: 2adafbf1259ad4b79aa11c82986442be
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/12.unity
+    guid: aa112e4bb50f64a9b88847712596969b
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/13.unity
+    guid: 1ad89264238964f7abd9df0de995b20d
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/14.unity
+    guid: fe08a9e0344e8458e8e20ebbc4505e77
+  - enabled: 1
+    path: Assets/Scenes/zzz FINAL zzz/Levles/Newer/15.unity
+    guid: 273531abb219c4cf691a21656e6fbf05
+  m_configObjects: {}

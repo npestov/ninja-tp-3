@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - Cone
+  - Obstacle
+  - KilledTarget
+  - Water
+  - Bullet
+  - unhit
+  - coin
+  - finish
+  - bonus
+  - floor
+  - nobonus
+  - Runner
+  - bonusWarning
+  - runupwall
+  - jumpbooster
+  - leftwall
+  - rightwall
+  - wall
+  - slide
+  - slideend
+  - sword
+  - rightHand
+  - slicingCam
+  - weapon
+  - slicingSword
+  - pawn
+  - boost
+  - hurt
+  - Ground
+  - bigHurt
+  - pawnParent
+  - speedBoost
+  - enemyTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PostProcessing
+  - Obstacle
+  - ClickableUI
+  - UnHittable
+  - Runner
+  - Dead Enemy
+  - Sword
+  - UNINTERACTABLE
+  - floor
+  - PlayerBlocker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
